@@ -2,6 +2,14 @@
 
 Projeto desenvolvido como desafio acadêmico da plataforma Digital Innovation One (DIO).
 
+---
+
+## 📸 Preview
+
+![Genius Game Screenshot](./assets/screenshot.png)
+
+---
+
 ## 📚 Sobre o Projeto
 
 Este projeto consiste na criação de um jogo de memória inspirado no clássico Genius (Simon Game), utilizando apenas:
